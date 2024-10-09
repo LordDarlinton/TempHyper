@@ -24,7 +24,7 @@ The code applies to the simulation in Fig 2-6 in the main text.
 - GCC (version 8.1.0) or compatible C compiler
 - MinGW-W64 (for Windows users)
 - Standard C libraries 
-- Microsoft Windows 11.
+- Microsoft Windows 11
 
 ## Running the software
 
