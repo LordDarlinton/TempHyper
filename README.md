@@ -35,9 +35,9 @@ The program can perform simulations both under the pairwise and group social dil
  * 1. Open your terminal or command prompt.
  * 2. Navigate to the directory containing this file.
  * 3. Compile the program using GCC:
- *    gcc Simulation.c -o Simulation.exe
+ *      gcc Simulation.c -o Simulation.exe
  * 4. Run the executable:
- *    Simulation.exe  
+ *      Simulation.exe  
 
 
 This program generates an output file, the datafile name can be defined in the code. 
