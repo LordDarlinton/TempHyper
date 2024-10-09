@@ -51,8 +51,9 @@ Here is a demo for the output:
 1.020000, 0.581000
 1.060000, 0.601000
 1.100000, 0.645000
+
 The items stands for: $r$, Frequency of cooperators， $f_C$ .
 
 ## License
 
-See LICENSE for details.
+MIT License
