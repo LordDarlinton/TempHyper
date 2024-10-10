@@ -31,14 +31,14 @@ The code applies to the simulation in Fig 2-6 in the main text.
 
 All files should be put in the same folder. 
 The program can perform simulations both under the pairwise and group social dilemmas. Please run it using the appropriate program. To compile and run the program,
- * follow these steps:
- *
- * 1. Open your terminal or command prompt.
- * 2. Navigate to the directory containing this file.
- * 3. Compile the program using GCC:
- *      gcc Simulation.c -o Simulation.exe
- * 4. Run the executable:
- *      Simulation.exe  
+follow these steps:
+ 
+1. Open your terminal or command prompt.
+2. Navigate to the directory containing this file.
+3. Compile the program using GCC:
+       gcc Simulation.c -o Simulation.exe
+4. Run the executable:
+     Simulation.exe  
 
 
 This program generates an output file, the datafile name can be defined in the code. 
