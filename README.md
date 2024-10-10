@@ -38,7 +38,7 @@ follow these steps:
 3. Compile the program using GCC:
  *      gcc Simulation.c -o Simulation.exe
 4. Run the executable:
- *    Simulation.exe  
+ *      Simulation.exe  
 
 
 This program generates an output file, the datafile name can be defined in the code. 
