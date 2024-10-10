@@ -36,9 +36,9 @@ follow these steps:
 1. Open your terminal or command prompt.
 2. Navigate to the directory containing this file.
 3. Compile the program using GCC:
-       gcc Simulation.c -o Simulation.exe
+ *      gcc Simulation.c -o Simulation.exe
 4. Run the executable:
-     Simulation.exe  
+ *    Simulation.exe  
 
 
 This program generates an output file, the datafile name can be defined in the code. 
